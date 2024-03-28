@@ -38,7 +38,6 @@ if input1 == "left":
             print("Game Over...")
     else:
         print("Ambush from crocodiles, Game Over...")
-        
 else:
     print("Wrong turn!!! Game Over...")
     
